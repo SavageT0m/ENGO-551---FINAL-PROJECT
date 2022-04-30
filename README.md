@@ -1,8 +1,8 @@
 # ENGO-551---FINAL-PROJECT
 
 This is the final project for team number 1, composed of the following members:
-Zian Zahid 
-Kuan Xiong
+Zian Zahid, 
+Kuan Xiong,
 Enis Alushi
 
 The report for this project has been submitted in D2L, under Enis Alushi's account.
